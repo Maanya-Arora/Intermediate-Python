@@ -1,0 +1,5 @@
+myset = set(("hi","hola","hello"))
+otherset = set(("hey","bonjour","hi"))
+print(myset)
+myset.update(otherset)
+print(myset)
