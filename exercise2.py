@@ -1,0 +1,5 @@
+fruit = ("banana")
+print(fruit[1:3])
+print(fruit[:])
+fruit2 = ("apple")
+#print(fruit * fruit2)
